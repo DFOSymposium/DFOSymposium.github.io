@@ -11,6 +11,8 @@ DFOS is held biennially:
 
 * **[3rd Derivative-Free Optimization Symposium (DFOS'26)](https://symposia.gerad.ca/DFOS26/home), June 22-26, 2026, Montréal, Canada:**
 Thanks to local organizing committee (Charles Audet, Youssef Diouane, and Sébastien Le Digabel) and the scientific committee (Charles Audet, Youssef Diouane, Warren Hare, Sébastien Le Digabel, Margherita Porcelli, Francesco Rinaldi, and Stefan Wild)
+![DFOS'26](images/DFOS26-1.JPG)
+![DFOS'26](images/DFOS26-2.JPG)
 * **[2nd Derivative-Free Optimization Symposium (DFOS'24)](https://sites.google.com/diag.uniroma1.it/dfos24/home), June 24-28, 2024, Padova, Italy:**
 ![DFOS'24](images/1719575993882.jpg)
 Thanks to the local organizing committee (Giampaolo Liuzzi, Margherita Porcelli, and Francesco Rinaldi) and the scientific committee (Ana Luísa Custódio, Sebastien Le Digabel, Giampaolo Liuzzi, Margherita Porcelli, and Francesco Rinaldi).
