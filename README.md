@@ -1,4 +1,4 @@
-================
+![DFOS](images/DFOS_original.jpg)
 Public website for the Derivative-Free Optimization Symposium (DFOS)
 
 DFOS is a community-driven, single-track symposium highlighting the latest international developments in Derivative-free Optimization (DFO) and occuring biennially. The main goal is to find new connections between research focused in DFO algorithmic design and novel applications of DFO. A single-track workshop facilitates the interaction among participants, strengthening possibilities of collaboration. 
